@@ -69,20 +69,28 @@ The system detects a smile and responds automatically with the corresponding fun
 # Diagrams
 
 User
+  
   ↓
 Webcam
+ 
   ↓
 Frontend (HTML/CSS/JavaScript)
+  
   ↓
 Flask Backend
+ 
   ↓
 OpenCV / Face & Expression Detection
+ 
   ↓
 Expression Detected
+  
   ↓
 Roast Selected
+  
   ↓
 Frontend Displays Roast
+ 
   ↓
 Malayalam Audio Plays 🔊
 
