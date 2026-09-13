@@ -90,6 +90,7 @@ Malayalam Audio Plays 🔊
 
 # Team Contributions
 Neha Shaji-contributed to the overall project development,including the computer vision implementation,background capture,testing and integration.
+
 Hiba Fathima UK- designed and developed user interface and contributed to the overall project development, testing and integration.
 
 
