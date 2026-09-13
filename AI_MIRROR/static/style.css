@@ -1,0 +1,55 @@
+body {
+
+    margin: 0;
+
+    background: #111;
+
+    color: white;
+
+    font-family: Arial, sans-serif;
+
+    text-align: center;
+
+}
+
+
+.mirror {
+
+    width: 90%;
+
+    max-width: 900px;
+
+    margin: 40px auto;
+
+}
+
+
+h1 {
+
+    font-size: 36px;
+
+}
+
+
+video {
+
+    width: 100%;
+
+    max-width: 800px;
+
+    border-radius: 20px;
+
+    /* Mirror effect */
+
+    transform: scaleX(-1);
+
+}
+
+
+#status {
+
+    margin-top: 20px;
+
+    font-size: 22px;
+
+}
