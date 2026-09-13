@@ -2,47 +2,49 @@
 
 
 
-# [Project Name] 🎯
+ CLUELESS MIRROR🎯
+
+GET ROASTED BY A MIRROR
+
+TEAM NAME:CLUELESS
 
 
-## Basic Details
-### Team Name: [Name]
+Team Members
+-NEHA SHAJI
+-HIBA FATHIMA U K
 
-
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
-### Project Description
-[2-3 lines about what your project does]
+ 
+CLUELESS MIRROR is an interactive AI smart mirror that detects facial expressions through a webcam and automatically responds with funny Malayalam roast audio, creating a hands-free and entertaining experience.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People spend way too much time looking into mirrors without getting any feedback. Mirror Roast AI solves this extremely important problem by making the mirror actually react to you.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Mirror Roast AI turns a normal webcam into an interactive smart mirror. It detects facial expressions such as neutral, smiling, surprised, and closed eyes using OpenCV, then automatically plays a funny Malayalam roast. No buttons. No commands. Just look into the mirror and get roasted.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python
+- Flask
+- OpenCV
+- NumPy
+- JavaScript
+- HTML
+- CSS
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Laptop
+- Webcam
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+pip install flask opencv-python numpy
 
 # Run
-[commands]
+python app.py
 
 ### Project Documentation
 For Software:
