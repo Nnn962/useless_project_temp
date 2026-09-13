@@ -3,7 +3,7 @@
 
 
  CLUELESS MIRROR🎯
-#Basic Details
+ 
 GET ROASTED BY A MIRROR
 
 TEAM NAME:CLUELESS
@@ -48,52 +48,49 @@ python app.py
 
 ### Project Documentation
 For Software:
-
+Mirror Roast AI uses a Flask backend to process webcam frames. OpenCV detects the user's face, smile, and eyes. JavaScript sends camera frames to the Flask /analyze endpoint and automatically plays the corresponding roast audio based on the detected expression.
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1180" height="827" alt="Screenshot 2026-09-13 165159" src="https://github.com/user-attachments/assets/09121c0a-5ad7-45ed-a619-792235e0e8c1" />
+Mirror Interface
+The Clueless Mirror interface displays the live camera feed and automatically monitors the user’s expression.
+<img width="1140" height="822" alt="Screenshot 2026-09-13 165231" src="https://github.com/user-attachments/assets/d19aeb81-0e04-4cb1-8e78-4340ddac65f3" />
+ Eyes Closed Detection
+The system detects closed eyes and displays the “Eyes closed!” status on the mirror.
+<img width="1123" height="845" alt="Screenshot 2026-09-13 165127" src="https://github.com/user-attachments/assets/d31653a9-6a54-4729-9829-e5ae08f00bb9" />
+Smile Detection
+The system detects a smile and responds automatically with the corresponding funny roast audio.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+User
+  ↓
+Webcam
+  ↓
+Frontend (HTML/CSS/JavaScript)
+  ↓
+Flask Backend
+  ↓
+OpenCV / Face & Expression Detection
+  ↓
+Expression Detected
+  ↓
+Roast Selected
+  ↓
+Frontend Displays Roast
+  ↓
+Malayalam Audio Plays 🔊
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+# Team Contributions
+Neha Shaji-contributed to the overall project development,including the computer vision implementation,background capture,testing and integration.
+Hiba Fathima UK- designed and developed user interface and contributed to the overall project development, testing and integration.
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
