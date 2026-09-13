@@ -2,18 +2,19 @@
 
 
 
- CLUELESS MIRROR🎯
- 
+
+# CLUELESS MIRROR🎯
+# Basic details
 GET ROASTED BY A MIRROR
 
-TEAM NAME:CLUELESS
+# TEAM NAME:CLUELESS
 
 
-Team Members
+# Team Members
 -NEHA SHAJI
 -HIBA FATHIMA U K
 
- 
+# Project Description 
 CLUELESS MIRROR is an interactive AI smart mirror that detects facial expressions through a webcam and automatically responds with funny Malayalam roast audio, creating a hands-free and entertaining experience.
 
 ### The Problem (that doesn't exist)
@@ -64,7 +65,7 @@ The system detects a smile and responds automatically with the corresponding fun
 
 
 
-
+# Diagrams
 
 User
   ↓
